@@ -64,7 +64,7 @@ This is a project where we build an AI voice agent with Python and React.
 
 ## Project Screenshot
 
-![AI Voice Assistant Demo](public/assets/screenshot.png)
+![AI Voice Assistant Demo](frontend/public/assets/screenshot.png)
 
 
 ## Technologies Used
